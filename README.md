@@ -20,4 +20,10 @@
 [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill): 歸藏电子杂志风网页 PPT Skill
 
 
+[huashu-design](https://github.com/alchaincyf/huashu-design)： 用来生成带动画的原型图、PPT
+
+
+[open-design](https://github.com/nexu-io/open-design): claude design 替代品
+
+
 
