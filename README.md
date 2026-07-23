@@ -31,7 +31,7 @@
 
 
 ### AI 应用
-[story-to-handdrawn-video)](https://github.com/gnipbao/story-to-handdrawn-video)：把中文故事文案或一组有序的手绘图片,转换成 3:4 竖屏手绘日记漫画动画
+[story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video)：把中文故事文案或一组有序的手绘图片,转换成 3:4 竖屏手绘日记漫画动画
 
 
 
