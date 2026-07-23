@@ -14,7 +14,9 @@
 ## AI
 [agentic-design-patterns](https://github.com/xindoo/agentic-design-patterns): 谷歌新书《agentic-design-patterns》的中文翻译
 
-[《深入理解 AI Agent：设计原理与工程实践》] (https://github.com/bojieli/ai-agent-book)
+[ai-agent-book](https://github.com/bojieli/ai-agent-book)：《深入理解 AI Agent：设计原理与工程实践》（Agent = LLM + 上下文 + 工具——本书围绕这个核心公式，用 10 章把 AI Agent 从原理讲到工程实战。全书正文、配图、92 个配套实验全部开源，欢迎亲手把实验跑一遍。
+
+
 
 
 ### AI Skills
@@ -29,7 +31,7 @@
 
 
 ### AI 应用
-[把中文故事文案或一组有序的手绘图片,转换成 3:4 竖屏手绘日记漫画动画](https://github.com/gnipbao/story-to-handdrawn-video)
+[story-to-handdrawn-video)](https://github.com/gnipbao/story-to-handdrawn-video)：把中文故事文案或一组有序的手绘图片,转换成 3:4 竖屏手绘日记漫画动画
 
 
 
