@@ -14,6 +14,8 @@
 ## AI
 [agentic-design-patterns](https://github.com/xindoo/agentic-design-patterns): 谷歌新书《agentic-design-patterns》的中文翻译
 
+[《深入理解 AI Agent：设计原理与工程实践》] (https://github.com/bojieli/ai-agent-book)
+
 
 ### AI Skills
 
@@ -24,6 +26,11 @@
 
 
 [open-design](https://github.com/nexu-io/open-design): claude design 替代品
+
+
+### AI 应用
+[把中文故事文案或一组有序的手绘图片,转换成 3:4 竖屏手绘日记漫画动画](https://github.com/gnipbao/story-to-handdrawn-video)
+
 
 
 
