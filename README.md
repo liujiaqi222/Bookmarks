@@ -37,5 +37,7 @@
 ## 工具
 [海外随机地址](https://github.com/daimon3332/address)
 
+[whisper.cpp](https://github.com/ggml-org/whisper.cpp): OpenAI Whisper 语音识别模型的 C/C++ 移植版，可在本地 CPU 上运行，无需 GPU 即可实时转录，支持中文等多语言。
+
 
 
